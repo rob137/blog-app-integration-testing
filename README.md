@@ -1,2 +1,1 @@
-Blog app challenge solution
-==========================
+Blog app integration tests - using node and chai
